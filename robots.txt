@@ -1,4 +1,4 @@
-Sitemap: https://lwflouisa.nekoweb.org/
+Sitemap: https://lwflouisa.github/BackgroundArt
 
 User-agent: *
 Disallow: /
